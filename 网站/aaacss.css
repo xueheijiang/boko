@@ -1,0 +1,45 @@
+
+
+
+
+
+
+#dwd{
+
+}
+
+.ee{
+       color: blue;
+}
+.a233{
+  color: #ff0000;
+}
+.aa{
+    color: blue;
+}
+.aaa{
+    color: rgb(255, 0, 0);
+}
+.content {
+      flex: 1; /* 内容区域自动填充剩余空间 */
+    }
+      .footer {
+      background: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+     }
+body{
+
+       background-image: url('preview.jpg');
+        width:100%;
+    height:100%;
+    background-size:100% 100%;
+     }
+.diduan{
+/*background-color:#ffffff;*/
+border: 4mm groove rgba(37, 255, 200, 0.041);
+padding: 1em;
+background-color: rgba(117, 117, 117, 0.308);
+backdrop-filter: blur(10px)
+}
